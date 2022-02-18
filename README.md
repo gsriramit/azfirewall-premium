@@ -26,3 +26,8 @@ Azure Firewall is a managed cloud-based network security service that protects y
 
 Learn more at https://docs.microsoft.com/en-us/azure/firewall.
 
+# Testing  
+Testing of the premium sku features deployed through this repo can be performed using the steps provided in the microsoft documentation  
+https://docs.microsoft.com/en-us/azure/firewall/premium-deploy#test-the-firewall
+
+
